@@ -1,8 +1,8 @@
 {
   "light": {
     "background": {
-      "default": "#b41b39",
-      "paper": "#ffffff"
+      "default": "#f8e67a",
+      "paper": "#5c5b8d"
     },
     "status": {
       "ok": "#129900",
